@@ -15,7 +15,7 @@ pipeline {
         DEV_PROJECT = "uburro-movies-dev"
         STAGE_PROJECT = "uburro-movies-stage"
         APP_GIT_URL = "https://github.com/Uburro/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.cluster.domain.example.com/repository/java"
+        NEXUS_SERVER = "http://nexus-common.apps.ocp-ap3.prod.nextcle.com/repository/java"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "movies"
